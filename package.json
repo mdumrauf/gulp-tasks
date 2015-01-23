@@ -1,0 +1,33 @@
+{
+  "name": "gulp-tasks",
+  "version": "1.0.0",
+  "description": "Common Gulp.js tasks used amongst projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudifyd/gulp-tasks.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-tasks",
+    "jshint",
+    "mocha",
+    "nodemon"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudifyd/gulp-tasks/issues"
+  },
+  "homepage": "https://github.com/cloudifyd/gulp-tasks",
+  "dependencies": {
+    "del": "0.1.3",
+    "gulp": "3.8.8",
+    "gulp-istanbul": "0.3.1",
+    "gulp-jshint": "1.8.5",
+    "gulp-mocha": "1.1.1",
+    "gulp-nodemon": "1.0.4",
+    "jshint-stylish": "1.0.0",
+    "mocha": "1.21.5",
+    "tungus": "0.0.3"
+  }
+}
